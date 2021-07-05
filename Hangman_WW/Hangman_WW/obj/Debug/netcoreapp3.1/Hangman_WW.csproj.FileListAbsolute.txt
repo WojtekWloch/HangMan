@@ -1,0 +1,12 @@
+/Users/mac/Projects/Hangman_WW/Hangman_WW/obj/Debug/netcoreapp3.1/Hangman_WW.csproj.AssemblyReference.cache
+/Users/mac/Projects/Hangman_WW/Hangman_WW/obj/Debug/netcoreapp3.1/Hangman_WW.AssemblyInfoInputs.cache
+/Users/mac/Projects/Hangman_WW/Hangman_WW/obj/Debug/netcoreapp3.1/Hangman_WW.AssemblyInfo.cs
+/Users/mac/Projects/Hangman_WW/Hangman_WW/obj/Debug/netcoreapp3.1/Hangman_WW.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/Hangman_WW/Hangman_WW/bin/Debug/netcoreapp3.1/Hangman_WW.deps.json
+/Users/mac/Projects/Hangman_WW/Hangman_WW/bin/Debug/netcoreapp3.1/Hangman_WW.runtimeconfig.json
+/Users/mac/Projects/Hangman_WW/Hangman_WW/bin/Debug/netcoreapp3.1/Hangman_WW.runtimeconfig.dev.json
+/Users/mac/Projects/Hangman_WW/Hangman_WW/bin/Debug/netcoreapp3.1/Hangman_WW.dll
+/Users/mac/Projects/Hangman_WW/Hangman_WW/bin/Debug/netcoreapp3.1/Hangman_WW.pdb
+/Users/mac/Projects/Hangman_WW/Hangman_WW/obj/Debug/netcoreapp3.1/Hangman_WW.dll
+/Users/mac/Projects/Hangman_WW/Hangman_WW/obj/Debug/netcoreapp3.1/Hangman_WW.pdb
+/Users/mac/Projects/Hangman_WW/Hangman_WW/obj/Debug/netcoreapp3.1/Hangman_WW.genruntimeconfig.cache
